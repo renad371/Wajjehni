@@ -48,11 +48,11 @@ The application also provides notifications for campus events, activities, and e
 - Atyaf Almatrfi   
  
 ## Future Enhancements 
-- For more in-depth information about the project, please refer to [this report](https://github.com/renad371/Wajjehni/blob/main/report%20wajjhni1.pdf) included in the repository.
+- Expand the list of supported features, such as personalized academic progress tracking. 
 - Implement AI-based recommendations for volunteers and services. 
 - Integrate multilingual support for international students. 
  
 --- 
  
 ## Additional Details 
-For more in-depth information about the project, please refer to the project report included in the repository.
+For more in-depth information about the project, please refer to [this report](https://github.com/renad371/Wajjehni/blob/main/report%20wajjhni1.pdf) included in the repository.
