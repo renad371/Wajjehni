@@ -40,8 +40,8 @@ The application also provides notifications for campus events, activities, and e
  
  
 ## Team Members 
-- Ghala Albishri 
-- Renad Alsaedi   
+- Renad Alsaedi 
+- Ghala Albishri   
 - Asma Al-Asmari   
 - Razan Alqurashai   
 - Arwa Asiri   
